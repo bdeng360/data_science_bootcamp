@@ -5,8 +5,8 @@ channels:
   - defaults
 dependencies:
   - r-base=3.5.3
-  - p-base=3.7.7
-  - r-dpylyr
+  - python=3.7.7
+  - r-dplyr
   - r-ggplot2
   - r-reshape2
   - r-tidyverse
